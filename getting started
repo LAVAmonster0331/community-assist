@@ -1,0 +1,26 @@
+When getting your DAYz server started choosing the server host is essential. There are numerous choices out there so pick one that fits your needs best. Moving forward in this file the two main DayZ file folder names we'll be talking the most about is the MPMISSIONS/dayzOffline.chernarusplus and the PROFILES folder. The PROFILE folder is sometimes labeled something different depending on your server host, a quick google search should let you know what it's named on your server.
+
+The following are some links that I find very essential for proofing any file you upload to your server. Be it a .XML , .JSON, or any other. As well will be links to other helpful sites/tools that will help you build the server you desire. As with all the folders/files in this repository please feel free to use anything here in any way you can/want to help you along your server development journey. If there is something you don't see but would like to please feel free to contact me and I'll see what we can do to make it happen.
+discord link:
+
+XML file validator
+https://codebeautify.org/xmlvalidator
+
+JSON file validator
+https://codebeautify.org/jsonvalidator/cb2e042a
+
+If you choose to use/purchase LBmaster, this link will take you to their config page on their website:
+https://lbmaster.de/configs/
+
+Expansion "PROFILES" folder config help. This link will take you to a site that breaks down all the config for Expansion Mod folder in the PROFILES folder.
+https://pingperfect.com/index.php/knowledgebase/948/DayZ--How-to-customise-Expansion-Mod.html
+
+RedFalcon Heli's, this link will take you to RFFS's config github to help set up their mod to best suit your server.
+https://github.com/RedFalconKen/RedFalconFlightSystem-Heliz/tree/main/Config%20Files
+
+
+
+As I find/make new things I find to be helpful i'll add links here or a new file with said items. 
+
+Enjoy
+Lava
